@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👨🏻‍💻  A Little Bit About Me and My Interests
 
 ```yaml
 name: Cezar Baluta
