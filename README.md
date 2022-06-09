@@ -31,5 +31,6 @@ hobbies: ["F1 ", "Ping-Pong", "Acting", "Gym"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" alt="clion" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="45" height="45"/>
   
 </p>
