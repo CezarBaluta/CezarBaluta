@@ -9,7 +9,7 @@ education:
     "Self-Taught WebDeveloper",
     "Competitive programming courses",
   ]
-company: National College of Computer Science “Tudor Vianu”
+university:  Faculty of Automatic Control and Computer Science - UNSTPB
 
 fields_of_interests:
   [
